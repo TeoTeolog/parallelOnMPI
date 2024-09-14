@@ -1,0 +1,10 @@
+process 2
+Time: 0.000376225
+process 4
+Time: 0.000413656
+process 8
+Time: 0.000174761
+process 16
+Time: 0.029717
+process 32
+Time: 0.0616543
